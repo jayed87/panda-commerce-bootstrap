@@ -1,0 +1,20 @@
+body{
+    background-color: #F4F4F4;
+}
+#head-wrapper{
+    background-color: #FFFFFF;
+}
+#carousel-section{
+    background-color: #FEEAE9;
+}
+#card-bg{
+    background-color: #FFFFFF;
+}
+#footer-container{
+    height: 350px;
+    background: #FFF2F1;
+}
+#footer-wrapper{
+    background-color: #FFFFFF;
+    height: auto;
+}
